@@ -1,4 +1,4 @@
-# FoodOrderingApp Skeleton
+# FoodOrderingApp v1
 
 This repository contains a minimal skeleton for an iOS food ordering
 application built using **SwiftUI**, **async/await** and a simple
